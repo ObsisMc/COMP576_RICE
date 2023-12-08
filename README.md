@@ -6,8 +6,8 @@ The repo contains solutions of homework of COMP 576, A PRACTICAL INTRODUCTION TO
 For reference only.
 
 
-|HW index| grade |
-|---|-------|
-|hw0| 5/5   |
-|hw1| TBD  |
-|hw2| TBD   |
+|HW index| grade  |
+|---|--------|
+|hw0| 5/5    |
+|hw1| 87/100 |
+|hw2| 96/100 |
