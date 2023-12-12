@@ -34,6 +34,8 @@ You can access our code through local files in the repository or on the Kaggle p
 
 ### Model
 
+- LightGBM
+  - local: `lightgbm_baseline.ipynb`
 
 - XGBoost
   - local: `xgboost_baseline.ipynb`
