@@ -1,7 +1,7 @@
 # Homework of COMP576 - Rice University - 2023 fall
 > Official website of the course: [here](https://elec576.rice.edu/)
 
-The repo contains solutions of homework of COMP 576, A PRACTICAL INTRODUCTION TO DEEP MACHINE LEARNING.
+The repo contains solutions of homework and our project of COMP 576, A PRACTICAL INTRODUCTION TO DEEP MACHINE LEARNING.
 
 For reference only.
 
