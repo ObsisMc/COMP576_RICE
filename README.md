@@ -18,5 +18,7 @@ For reference only.
 |proposal|98/100|
 |poster|98/100|
 |write up|93/100|
-
 Details are in [`project`](https://github.com/ObsisMc/COMP576_RICE/tree/main/Project) directory.
+
+## Final Grade
+93.6 A-
